@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Claudia Melgarejo — Founder and CEO</title>
+<desc id="desc">Building the next era of beauty. Personal founder banner in ivory, rose and espresso.</desc>
+<defs><clipPath id="frame"><rect width="1200" height="300" rx="18"/></clipPath></defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="300" fill="#F5EFE5"/>
+<circle cx="1090" cy="145" r="180" fill="#EAD8CF"/>
+<circle cx="1090" cy="145" r="130" fill="none" stroke="#BD8C88" stroke-width="1.5"/>
+<circle cx="1090" cy="145" r="87" fill="none" stroke="#BD8C88" stroke-width="1.5"/>
+<path d="M1090 83 L1101 134 L1152 145 L1101 156 L1090 207 L1079 156 L1028 145 L1079 134 Z" fill="#48332A"/>
+<circle cx="1160" cy="75" r="5" fill="#BD8C88"/>
+<rect x="54" y="52" width="45" height="3" rx="1.5" fill="#BD8C88"/>
+<text x="54" y="87" fill="#694F49" font-family="Arial, sans-serif" font-size="16" letter-spacing="3">FOUNDER  /  CEO  /  ENTREPRENEUR</text>
+<text x="50" y="155" fill="#48332A" font-family="Georgia, serif" font-size="60">Claudia Melgarejo</text>
+<text x="54" y="199" fill="#48332A" font-family="Arial, sans-serif" font-size="23">Building the next era of beauty.</text>
+<text x="54" y="252" fill="#694F49" font-family="Arial, sans-serif" font-size="15" letter-spacing="2">GLOWERA  ·  BEAUTYTECH  ·  PARAGUAY</text>
+</g></svg>
